@@ -13,7 +13,7 @@
 
 #### Tanya Patel:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Email:**  GitHub: tanyapatel311
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Email:** pateltp311@gmail.com, GitHub: tanyapatel311
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Roles:** Did LinkedBag and LinkedBagTest, README File, Efficiency File 
 
