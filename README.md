@@ -1,4 +1,4 @@
-## Project 0: Git Ready
+## Project 1: Operation Bagsome
 ### **Group Name:** HardCoders
 #### Keerthi Sreeram:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Email:** ksreeram@cpp.edu, GitHub: Keesree
