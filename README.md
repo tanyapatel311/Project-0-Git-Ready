@@ -1,11 +1,23 @@
 ## Project 0: Git Ready
-### *Tanya Patel*
+### **Group Name:** HardCoders
+#### Keerthi Sreeram:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Email:** ksreeram@cpp.edu, GitHub: Keesree
 
-**[GitHub Repo Link](https://github.com/tanyapatel311/Project-0-Git-Ready.git)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Roles:** Did ResizableArrayBag and ResizableArrayTest,wrote testcases and helped with efficiency file 
 
-**[Screen Record Link](https://youtu.be/lcJPH-uhX4c)**
+#### Elvin Florencio: 
 
-**IDE used:** Eclipse
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Email:** eflorencio@cpp.edu, GitHub: f1orencio
 
-**ScreenCast Software Used:** Samsung screen recorder
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Roles:** Did BagInterface and BagDriver, helped with efficiency file 
+
+#### Tanya Patel:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Email:**  GitHub: tanyapatel311
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Roles:** Did LinkedBag and LinkedBagTest, README File, Efficiency File 
+
+**[GitHub Repo Link](https://github.com/Hardcoderss/2400Project1)**
+
+**[Screen Record Link]()**
 
